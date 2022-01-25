@@ -94,7 +94,7 @@
     </pluginRepositories>
 
     <dependencies>
-        
+
         <!-- First declare the APIs we depend on and need for compilation.
             All of them are provided by JBoss EAP -->
 
