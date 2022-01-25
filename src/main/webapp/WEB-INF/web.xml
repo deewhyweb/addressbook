@@ -2,7 +2,7 @@
 
     <module-name>addressbook</module-name>
 
-    <security-constraint>
+    <!-- <security-constraint>
         <web-resource-collection>
             <web-resource-name>Users</web-resource-name>
             <url-pattern>/*</url-pattern>
@@ -22,5 +22,5 @@
 
     <security-role>
         <role-name>user</role-name>
-    </security-role>
+    </security-role> -->
 </web-app>

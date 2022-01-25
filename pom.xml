@@ -94,7 +94,12 @@
     </pluginRepositories>
 
     <dependencies>
-
+        <!-- Declare postgres plugin -->
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>42.3.1</version>
+        </dependency>
         <!-- First declare the APIs we depend on and need for compilation.
             All of them are provided by JBoss EAP -->
 
